@@ -8,7 +8,7 @@
  <img src="Projekt1.PNG" height=600 width=350> <img src="Projekt1ENG.png" height=600 width=350>
 
  <h3>Answer to the first alert</h3>
- <img src="BR1.jpg" height=600>
+ <img src="BR1.jpg">
  <p>TRANSLATION: </p>
  <p>Summary: Incorrectly calculating the percentage of answers</p>
  <p>Pre-conditions:</p>
@@ -25,7 +25,7 @@
  <p>percentage of correct and incorrect answers should be exactly 100%</p>
  <br>
  <h3>Answer to the second alert</h3>
- <img src="BR2.jpg" height=600>
+ <img src="BR2.jpg">
   <p>TRANSLATION: </p>
  <p>Summary: Incorrectly calculating the percentage of answers</p>
  <p>Pre-conditions:</p>
@@ -42,7 +42,7 @@
  <p>Page should change to summary and results</p>
  <br>
  <h3>Answer to the third alert</h3>
- <img src="BR3.jpg" height=600>
+ <img src="BR3.jpg">
 <p>TRANSLATION: </p>
  <p>Summary: Expansion of the list of additional materials does not work</p>
  <p>Pre-conditions:</p>
@@ -59,7 +59,7 @@
  <p>The list should expand</p>
  <br>
   <h3>Answer to the fourth alert</h3>
- <img src="BR4.jpg" height=600>
+ <img src="BR4.jpg">
 <p>TRANSLATION: </p>
  <p>Summary: go to the previous question button didn't work</p>
  <p>Pre-conditions:</p>
@@ -77,7 +77,7 @@
  <p>Page should go back to the previous question</p>
  <br>
  <h3>Answer to the fifth alert</h3>
- <img src="BR5.jpg" height=600>
+ <img src="BR5.jpg">
 <p>TRANSLATION: </p>
  <p>Summary: test restart button didn't work</p>
  <p>Pre-conditions:</p>
